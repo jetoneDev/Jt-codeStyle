@@ -17,12 +17,26 @@
     SystemName -系统名称
     CompanyId -公司ID
     CompanyName -公司名称
+    CompanyStatus - 公司状态 
+    ParentCompanyId - 总公司
     DepartmentId -部门Id
     DepartmentName -部门名称
+    ParentDepartment - 父部门
+    DepartmentStatus - 部门状态
     UserId - 用户ID
     UserName - 用户名称
+    UserStatus - 用户状态
+    Password - 用户密码
     RoleId -用户权限阻ID
     RoleName -用户权限组名称
+    RoleType - 用户权限组状态
+    ResourceUrl - 资源链接
+    ParentResourceUrl - 父辈资源链接
+    ResourceType - 手机或PC资源类型
+    
+    
+   
+    
     ```
 ## 关于微信-命名规范
   ```
