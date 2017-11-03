@@ -12,8 +12,6 @@
     数据库命库命名，表命名，字段命名，使用帕斯卡命名. 如, DataTable、 ColumnA
     前端字段命名使用：驼峰式命名法
 ## 组织架构-命名规范
-  - 关于组织架构关联命名，以及数据传输命名
-    ```
     SystemId -系统ID
     SystemName -系统名称
     CompanyId -公司ID
@@ -34,30 +32,21 @@
     ResourceUrl - 资源链接
     ParentResourceUrl - 父辈资源链接
     ResourceType - 手机或PC资源类型
-    ```
+
 ## 关于公司／人员额外信息
-  ```
-  CellPhone --手机号码
-  Tel --座机
-  Contacts --联系人
-  
-  ```
+    CellPhone --手机号码
+    Tel --座机
+    Contacts --联系人
+    
 ## 关于微信-命名规范
-  ```
-  OpenId --微信唯一号
-  AppId --微信公众号 
-  AppSercert --微信公众号密码
-  NickName  --微信昵称
-  ```
+    OpenId --微信唯一号
+    AppId --微信公众号 
+    AppSercert --微信公众号密码
+    NickName  --微信昵称
 ## 关于车辆
-  ```
-  VehicleId --车辆Id
-  PlateNum  --车牌号码
-  Acc --acc点火状态
-  ```
+    VehicleId --车辆Id
+    PlateNum  --车牌号码
+    Acc --acc点火状态
 ## 关于车辆异常状态
-  ```
-  OverSpeed --超速
-  
-  ```
+    OverSpeed --超速
 **[⬆ 回到顶部](#内容目录)**
