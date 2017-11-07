@@ -21,9 +21,9 @@
       专属名称+Count（次数）
 ## 公用
     CreateTime  --创建时间
-    CreatorId --创建者Id
-    CreatorName --创建立者姓名
-    StartTime   --开始时间
+    CreatorId --创建者Id
+    CreatorName --创建立者姓名
+    StartTime   --开始时间
     EndTime --结束时间
     LastUpdater --最后修改者
     LastUpdateTime  --最后修改时间
@@ -51,24 +51,24 @@
     ResourceType - 手机或PC资源类型
 ## 关于公司/人员额外信息
     IdentificationNum   --身份证
-    IdentificationFImg  --身份证正面
-    IdentificationBImg --身份证反面
-    CellPhoneNum --手机号码
+    IdentificationFImg  --身份证正面
+    IdentificationBImg --身份证反面
+    CellPhoneNum --手机号码
     TelNum --座机号码
-    ContactsName --联系人名字
+    ContactsName --联系人名字
 ## 关于货运
-    StartAddress --发货地址/开始地址
-    EndAddress --收货地址/结束地址
-    PathWay --途径点
-    DeliveryNum --获取单号
+    StartAddress --发货地址/开始地址
+    EndAddress --收货地址/结束地址
+    PathWay --途径点
+    DeliveryNum --获取单号
 ## 关于支付/银行/金钱/财务
-    Total --合计
-    Amount --金额
-    RemainAmount -余额
-    Bill --账单
-    BandCardNum --银行卡号码
-    PayType --支付类型
-    TaxAmount --税收金额
+    Total --合计
+    Amount --金额
+    RemainAmount -余额
+    Bill --账单
+    BandCardNum --银行卡号码
+    PayType --支付类型
+    TaxAmount --税收金额
 ## 关于微信-命名规范
     OpenId --微信唯一号
     AppId --微信公众号 
@@ -78,45 +78,45 @@
     VehicleId --车辆Id
     VehicleType --车辆类型
     VehicleColor --车牌颜色
-    VehicleNum  --车牌号码  
+    VehicleNum  --车牌号码  
     VehicleColor --车辆颜色
-    Brand --车辆品牌
-    OverallSize--外廓尺寸
-    Mass --质量
-    DeviceId --设备ID
+    Brand --车辆品牌
+    OverallSize--外廓尺寸
+    Mass --质量
+    DeviceId --设备ID
     SimNum --sim卡号
-    AccStatus --acc点火状态
+    AccStatus --acc点火状态
     Online --上线
     Offline --掉线
     GpsTime --Gps时间
     ReceiveTime --接受时间
     Speed   --速度
     Direction   --角度
-    EnginNum --发动机号码
-    VehiclePermitionNum --车辆行驶证号码
-    VehiclePermistionImg --行驶证照片
-    OperationCertificateNum --营运证号码
-    OperationCertificateImg --营运证照片
-    VehicleFileNum --车辆档案号
-    TractionMass --核载质量
-    OwnerName --车辆所有人   
+    EnginNum --发动机号码
+    VehiclePermitionNum --车辆行驶证号码
+    VehiclePermistionImg --行驶证照片
+    OperationCertificateNum --营运证号码
+    OperationCertificateImg --营运证照片
+    VehicleFileNum --车辆档案号
+    TractionMass --核载质量
+    OwnerName --车辆所有人   
 ## 关于保险
-    InsuranceType --保险类型
-    InsuredAmount --投保额度
-    InsuranceNum --保单号
+    InsuranceType --保险类型
+    InsuredAmount --投保额度
+    InsuranceNum --保单号
 ## 司机
-    DrivingLicenseNum --驾驶证号码
-    DrivingLicenseFileNum --驾驶证档案号
-    ProfessionalCertificateNum --从业资格证    
+    DrivingLicenseNum --驾驶证号码
+    DrivingLicenseFileNum --驾驶证档案号
+    ProfessionalCertificateNum --从业资格证    
 ## 关于车辆异常/违规
-    ParkingOverTime --停车超时
-    DailyDrivingOverTime --日间超速
-    OverSpeed --超速
+    ParkingOverTime --停车超时
+    DailyDrivingOverTime --日间超速
+    OverSpeed --超速
     NoRest --2点～5点不休息
-    LocalAbnormal --定位异常
-    TrafficBan --禁行路段违章
-    BadDrivingBehavior --不良驾驶行为
-    NumberAbnormal --84220违章
+    LocalAbnormal --定位异常
+    TrafficBan --禁行路段违章
+    BadDrivingBehavior --不良驾驶行为
+    NumberAbnormal --84220违章
 ## 关于地图
     Longitude   --维度
     Latitude    --经度
