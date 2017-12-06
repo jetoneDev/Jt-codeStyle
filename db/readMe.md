@@ -79,8 +79,8 @@
     VehicleType --车辆类型
     VehicleColor --车牌颜色
     PlateNum  --车牌号码
-    ViNum--车架号
-    VehicleColor --车辆颜色
+    ViNum --车架号
+    VehicleColor --车辆颜色
     Brand --车辆品牌
     OverallSize--外廓尺寸
     Mass --质量
