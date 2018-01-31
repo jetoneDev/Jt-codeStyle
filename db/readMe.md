@@ -28,6 +28,8 @@
     LastUpdater --最后修改者
     LastUpdateTime  --最后修改时间
     Remark  --备注
+    lat -经度
+    lng -维度
 ## 组织架构-命名规范
     SystemId -系统ID
     SystemName -系统名称
